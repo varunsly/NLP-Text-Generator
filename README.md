@@ -13,4 +13,4 @@ Here, a model is been trained on some text mostly some book**The book dataset ha
 
 ## Result
 
-***After chnaging the encoding format, the same model is able to generate more readable text on the same parsed input. More efficiency parameters will be included***
+***After changing the encoding format, the same model is able to generate more readable text on the same parsed input. More efficient parameters will be included***
